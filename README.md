@@ -29,6 +29,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
+~~~
 mohamed.html
 <!DOCTYPE html>
 <html>
@@ -131,7 +132,7 @@ urlpatterns = [
 ]
 # SERVER SIDE PROCESSING:
 <img width="1364" height="318" alt="image" src="https://github.com/user-attachments/assets/d7f91a74-7825-4f12-98d3-27286bb10cbc" />
-
+~~~
 # HOMEPAGE:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c3c8f7c6-2aa4-4845-9ffb-4f90bdd32b13" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/032e76e6-d155-4a43-b386-917deb7392dc" />
